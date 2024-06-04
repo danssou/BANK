@@ -21,7 +21,7 @@ JS MATERY on YouTube
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/hoobank.git
+git clone https://github.com/danssou/BANK.git
 cd hoobank
 npm install
 ```
