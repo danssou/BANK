@@ -1,4 +1,5 @@
-![Hoobank Website](src\assets\cover.png)
+<img width="971" alt="image" src="https://github.com/danssou/BANK/assets/52327882/886bcd47-2c2d-49e7-b675-fbe3986ec095">
+
 
 # What I Have Learned from Building Hoobank
 
